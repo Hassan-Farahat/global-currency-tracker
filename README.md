@@ -1,6 +1,7 @@
 # 🔱 Global Currency Tracker
 
 An interactive real-time global currency converter and analytics dashboard built using **Streamlit**, **Plotly**, and **Pandas**, powered by the free **Open Exchange Rates REST API**.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-URL.streamlit.app)
 
 ## 🚀 Features
 - 🟢 **Live API Integration:** Fetches exchange rates for 160+ currencies with automated 5-minute caching.
