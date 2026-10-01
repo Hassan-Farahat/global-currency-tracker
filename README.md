@@ -1,4 +1,4 @@
-# 🔱 Global Currency Tracker                                                                                                     [![Live Demo](https://img.shields.io/badge/Live_Demo-Global_Currency_Tracker-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP-URL.streamlit.app)
+# 🔱 Global Currency Tracker                                                                                                     [![Live Demo](https://img.shields.io/badge/Live_Demo-Global_Currency_Tracker-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://global-currency-tracker.streamlit.app)
 
 An interactive real-time global currency converter and analytics dashboard built using **Streamlit**, **Plotly**, and **Pandas**, powered by the free **Open Exchange Rates REST API**.     
 
